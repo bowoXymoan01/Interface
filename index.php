@@ -5,4 +5,10 @@
     $andre->getUmur();
     $andre->getHoby();
     echo ("<br>");
+
+    $adit = new Adit();
+    $adit->getNama();
+    $adit->getUmur();
+    $adit->getHoby();
+    echo ("<br>");
 ?>
